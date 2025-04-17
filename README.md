@@ -4,14 +4,13 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Gravitrax über Python steuern
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Das Power Element Connect ermöglicht es, GraviTrax-Kugelbahnen programmiert zu steuern.
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Python in Verbindung mit der Bluetooth-Anbindung an die GraviTrax-Welt reizt dabei alle technischen Möglichkeiten des Systems erst so richtig aus und sorgt für kreative, programmierbare Spaßmomente.
 
 ![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/Fraestisch.jpg) 
 
-Alternativ zur im Beitrag beschriebenen lizenzpflichtigen PySimpleGUI Version 5.x gibt es auch noch den Vorläufer in Version 4, der frei erhältlich ist: 
-[PySimpleGUI Version 4.60](https://github.com/egm3387/PySimpleGUI-4.60.5)
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Alternativ zur im Beitrag beschriebenen lizenzpflichtigen PySimpleGUI Version 5.x gibt es auch noch den Vorläufer [PySimpleGUI Version 4.60](https://github.com/egm3387/PySimpleGUI-4.60.5), der für private Zwecke frei erhältlich ist.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 3/25 ab Seite 14](https://www.heise.de/select/make/2025/3/2508415323472449641). Im Verzeichnis "src" finden Sie die Listings zuum Beitrag.
